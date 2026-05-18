@@ -23,3 +23,4 @@ The [script](auditscript.py) stores collected information in Excel format for au
 ## Disclaimer
 
 This project is intended for educational and authorized administrative/security auditing purposes only.
+`Password` is mentioned in script.
