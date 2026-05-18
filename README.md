@@ -1,6 +1,6 @@
 # USB & Endpoint Enumeration Tool
 
-Python script developed to enumerate Windows endpoints and collect basic security-related information.
+[Python script](auditscript.py) developed to enumerate Windows endpoints and collect basic security-related information.
 
 ## Features
 
@@ -11,6 +11,7 @@ Python script developed to enumerate Windows endpoints and collect basic securit
 - USB block policy detection
 - Removable disk READ/WRITE/EXECUTE policy checks
 - Basic Windows service status checks
+![Preview Failed](host-security-audit-script-screenshots/1.png)<br><br>
 - Export results to password-protected Excel file
 
 ## Technologies Used
@@ -24,7 +25,7 @@ Python script developed to enumerate Windows endpoints and collect basic securit
 
 ## Output
 
-The script stores collected information in Excel format for auditing and analysis.
+The [script](auditscript.py) stores collected information in Excel format for auditing and analysis.
 
 ## Disclaimer
 
