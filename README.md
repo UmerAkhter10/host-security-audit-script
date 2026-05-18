@@ -13,15 +13,8 @@
 - Basic Windows service status checks
 ![Preview Failed](host-security-audit-script-screenshots/1.png)<br><br>
 - Export results to password-protected Excel file
-
-## Technologies Used
-
-- Python
-- openpyxl
-- subprocess
-- winreg
-- PowerShell
-- Windows CMD
+![Preview Failed](host-security-audit-script-screenshots/2.png)<br><br>
+![Preview Failed](host-security-audit-script-screenshots/3.png)<br><br>
 
 ## Output
 
